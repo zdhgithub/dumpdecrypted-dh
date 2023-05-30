@@ -1,0 +1,9 @@
+Package: com.dh.dumpdecrypted.rootless
+Name: dumpdecrypted
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: dump app and extensions
+Maintainer: dh
+Author: dh
+Section: System
+Tag: role::developer
